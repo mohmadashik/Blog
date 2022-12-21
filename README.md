@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blog
 =======
 To run the application,
